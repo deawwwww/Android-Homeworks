@@ -1,5 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">HW1</string>
-    <string name="first_and_second_name">Дмитрий Сипович</string>
-    <string name="group">11–504</string>
+    <string name="notification_title_label">Заголовок уведомления</string>
+    <string name="notification_text_label">Текст уведомления</string>
+    <string name="non_cancellable">Non cancellable</string>
+    <string name="importance_label">Importance:</string>
+    <string name="importance_min">Min</string>
+    <string name="importance_default">Default</string>
+    <string name="importance_high">High</string>
+    <string name="send_notification">Отправить уведомление</string>
+    <string name="last_notification_id">ID последнего уведомления: %1$d</string>
+    <string name="active_notifications_management">Управление активными уведомлениями</string>
+    <string name="no_active_notification">Нет активного уведомления с id %1$d</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete_all">Удалить все</string>
+    <string name="second_screen">Второй экран</string>
+    <string name="notification_permission_required">Для нормальной работы приложения нужно предоставить разрешение на показ уведомлений</string>
+    <string name="open_app_settings">Открыть настройки приложения</string>
+    <string name="coordinates_instruction">Для определения координат нажмите на кнопку</string>
+    <string name="location_permission_required">Для определения координат предоставьте разрешение на доступ к местоположению</string>
+    <string name="get_coordinates">Получить координаты</string>
+    <string name="back">Назад</string>
+    <string name="coordinates_unavailable">Не удалось определить координаты</string>
+    <string name="coordinates_format">Ширина: %1$f, Долгота: %2$f</string>
+    <string name="coordinates_unavailable_enable_location">Не удалось определить координаты. Включите геолокацию и попробуйте снова</string>
 </resources>
